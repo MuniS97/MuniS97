@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**MuniS97/MuniS97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Munis 🚀 Frontend Developer with 2 years of real-world experience in crafting modern, responsive web applications from Uzbekistan
 
-Here are some ideas to get you started:
+✨ About Me
+I specialize in building clean, interactive, and responsive user interfaces using the latest tools and technologies. My current stack includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  JavaScript/TypeScript for powerful, typed development.
+  
+  React and Next.js for crafting dynamic and performant UIs.
+  
+  GSAP for animations that bring websites to life.
+  
+  Shadcn/UI components for modern, aesthetic design.
+  
+  I love exploring new frameworks and improving both functionality and user experience in my projects.
+
+📫 Let's Connect!
+Feel free to reach out via GitHub or connect on other platforms to collaborate on projects or chat about frontend development.
