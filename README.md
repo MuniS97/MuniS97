@@ -4,8 +4,6 @@
 
 <hr />
 
-<div href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=18&vCenter=true&width=600&height=40&lines=Frontend+Developer;Backend+Developer;"></div>
-
 <h4 align="center">Technologies & Tools</h3>
 
  <div align="center">
@@ -23,16 +21,9 @@
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff">
 </div>
 
-
-### ✨ About Me
-I specialize in building clean, interactive, and responsive user interfaces using the latest tools and technologies. My current stack includes:
-
-- JavaScript/TypeScript for powerful, typed development.
-- React and Next.js for crafting dynamic and performant UIs.
-- GSAP for animations that bring websites to life.
-- Shadcn/UI components for modern, aesthetic design.
-
-I love exploring new frameworks and improving both functionality and user experience in my projects.
+<div align="center">
+<div href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.comfont=Time+New+Roman&color=%23C8BE25&size=18&vCenter=true&width=600&height=40&lines=Frontend+Developer;Backend+Developer;"></div>
+</div>
 
 ### 📫 Let's Connect!
 
