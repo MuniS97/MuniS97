@@ -10,11 +10,7 @@
 
 <h4 align="center">Technologies & Tools</h3>
  
- <div style={
-  display: flex
-  justify-content: center
-  gap: 5px
- }>
+ <div align="center">
   ![Javascript](https://img.shields.io/badge/-Javascript-23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
