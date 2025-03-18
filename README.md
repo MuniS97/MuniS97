@@ -2,11 +2,11 @@
 
 🚀 Frontend Developer with 2 years of real-world experience in crafting modern, responsive web applications from Uzbekistan
 
-<hr />
+---
 
 <div href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=18&vCenter=true&width=600&height=40&lines=Frontend+Developer;Backend+Developer;"></div>
 
-<hr />
+---
 
 ### 🔧 Technologies & Tools I Use
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
