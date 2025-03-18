@@ -1,6 +1,6 @@
-### Hi there 👋 
+### Hi there, I'm Munis
 
-# I'm Munis 🚀 Frontend Developer with 2 years of real-world experience in crafting modern, responsive web applications from Uzbekistan
+🚀 Frontend Developer with 2 years of real-world experience in crafting modern, responsive web applications from Uzbekistan
 
 ### 🔧 Technologies & Tools I Use
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
