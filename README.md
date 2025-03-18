@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-<div href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.comfont=Time+New+Roman&color=%23C8BE25&size=18&vCenter=true&width=600&height=40&lines=Frontend+Developer;Backend+Developer;"></div>
+<div href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=18&vCenter=true&width=600&height=40&lines=Frontend+Developer;Backend+Developer;"></div>
 </div>
 
 ### 📫 Let's Connect!
