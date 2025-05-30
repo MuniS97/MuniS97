@@ -1,6 +1,6 @@
 ### Hi there, I'm Munis
 
-🚀 Frontend Developer with real-world experience in crafting modern, responsive web applications from Uzbekistan
+🚀 Frontend Developer with real-world experience in crafting modern, responsive web applications
 
 <hr />
 
