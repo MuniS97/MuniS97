@@ -25,4 +25,4 @@
 
 Feel free to reach out via GitHub or connect on other platforms to collaborate on projects or chat about frontend development.
 
-<div align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=18&vCenter=true&width=600&height=40&lines=Frontend+Developer;Backend+Developer;"></div>
+<div align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=18&vCenter=true&width=600&height=40&lines=Frontend+Developer;Mobile+Developer;"></div>
