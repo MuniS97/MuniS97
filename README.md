@@ -1,6 +1,7 @@
 ### Hi there, I'm Munis
 
 🚀 Frontend Developer with real-world experience in crafting modern, responsive web applications
+<br />
 🚀 Currently actively learning backend developer
 
 <hr />
