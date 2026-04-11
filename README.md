@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/●%20available-Tashkent%2C%20UZ-3ECF8E?style=flat-square&labelColor=111&color=3ECF8E)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/munisdev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MuniS97)
 
 <sub>O P E N &nbsp; T O &nbsp; W O R K</sub>
 
