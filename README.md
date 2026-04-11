@@ -1,16 +1,9 @@
 <div align="center">
 
-<!-- Header -->
-<table width="100%"><tr><td>
+![Status](https://img.shields.io/badge/●_available-Tashkent,_UZ-3ECF8E?style=flat-square&labelColor=111&logoColor=white)
 
 ### Munis
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=888780&width=320&height=24&lines=Full-Stack+Engineer;Mobile+Developer;Project+Manager)
-
-</td><td align="right">
-
-![Location](https://img.shields.io/badge/Tashkent%2C_UZ-●_available-3ECF8E?style=flat-square&labelColor=111&logoColor=white)
-
-</td></tr></table>
 
 <table><tr>
 <td align="center"><sub>ROLE</sub><br/><b>Full-Stack Engineer</b></td>
