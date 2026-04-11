@@ -31,16 +31,12 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-<br/>
-
 <sub>M O B I L E</sub>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=000)
-
-<br/>
 
 <sub>B A C K E N D &nbsp; & &nbsp; D A T A</sub>
 
@@ -49,8 +45,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-<br/>
 
 <sub>T O O L I N G</sub>
 
@@ -65,10 +59,4 @@
 ![Learning](https://img.shields.io/badge/●%20System%20design-learning-3ECF8E?style=flat-square&labelColor=111)
 
 <br/>
-
-![Open](https://img.shields.io/badge/Freelance%20projects-open-534AB7?style=flat-square&labelColor=2C2C2A)
-![Open](https://img.shields.io/badge/Full--time%20roles-open-534AB7?style=flat-square&labelColor=2C2C2A)
-
-<br/>
-
 </div>
