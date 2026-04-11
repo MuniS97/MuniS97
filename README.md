@@ -1,35 +1,28 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="70%" valign="middle">
-<sub>OPEN TO WORK</sub>
+![Status](https://img.shields.io/badge/●%20available-Tashkent%2C%20UZ-3ECF8E?style=flat-square&labelColor=111&color=3ECF8E)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/munisdev)
 
-### Munis
+<br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=888780&width=320&height=24&lines=Full-Stack+Engineer;Mobile+Developer;Project+Manager)
-</td>
-<td width="30%" align="right" valign="middle">
+<sub>O P E N &nbsp; T O &nbsp; W O R K</sub>
 
-![Location](https://img.shields.io/badge/●_available-Tashkent%2C_UZ-3ECF8E?style=flat-square&labelColor=111)
+# Munis
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=888780&center=true&width=380&height=28&lines=Full-Stack+Engineer;Mobile+Developer;Project+Manager)
 
-</td>
-</tr>
-</table>
+<br/>
 
-<table width="100%">
-<tr>
-<td align="center" width="33%"><sub>ROLE</sub><br/><b>Full-Stack Engineer</b></td>
-<td align="center" width="33%"><sub>ALSO</sub><br/><b>Mobile Developer</b></td>
-<td align="center" width="33%"><sub>AND</sub><br/><b>Project Manager</b></td>
-</tr>
-</table>
+![Role](https://img.shields.io/badge/ROLE-Full--Stack%20Engineer-444441?style=flat-square&labelColor=2C2C2A)
+&nbsp;
+![Also](https://img.shields.io/badge/ALSO-Mobile%20Developer-444441?style=flat-square&labelColor=2C2C2A)
+&nbsp;
+![And](https://img.shields.io/badge/AND-Project%20Manager-444441?style=flat-square&labelColor=2C2C2A)
 
 ---
 
-<sub>FRONTEND</sub>
+<sub>F R O N T E N D</sub>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
@@ -38,14 +31,18 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-<sub>MOBILE</sub>
+<br/>
+
+<sub>M O B I L E</sub>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=000)
 
-<sub>BACKEND & DATA</sub>
+<br/>
+
+<sub>B A C K E N D &nbsp; & &nbsp; D A T A</sub>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=000)
@@ -53,7 +50,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<sub>TOOLING</sub>
+<br/>
+
+<sub>T O O L I N G</sub>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -62,25 +61,14 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+![Learning](https://img.shields.io/badge/●%20Backend%20architecture-learning-3ECF8E?style=flat-square&labelColor=111)
+![Learning](https://img.shields.io/badge/●%20System%20design-learning-3ECF8E?style=flat-square&labelColor=111)
 
-<sub>CURRENTLY LEARNING</sub>
+<br/>
 
-`●` Backend architecture  
-`●` System design
+![Open](https://img.shields.io/badge/Freelance%20projects-open-534AB7?style=flat-square&labelColor=2C2C2A)
+![Open](https://img.shields.io/badge/Full--time%20roles-open-534AB7?style=flat-square&labelColor=2C2C2A)
 
-</td>
-<td width="50%" valign="top">
-
-<sub>OPEN TO</sub>
-
-Freelance projects  
-Full-time roles
-
-</td>
-</tr>
-</table>
+<br/>
 
 </div>
