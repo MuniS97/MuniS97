@@ -12,8 +12,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=888780&center=true&width=380&height=28&lines=Full-Stack+Engineer;Mobile+Developer;Project+Manager)
 
-<br/>
-
 ![Role](https://img.shields.io/badge/ROLE-Full--Stack%20Engineer-444441?style=flat-square&labelColor=2C2C2A)
 &nbsp;
 ![Also](https://img.shields.io/badge/ALSO-Mobile%20Developer-444441?style=flat-square&labelColor=2C2C2A)
