@@ -1,32 +1,48 @@
 <div align="center">
 
-![Status](https://img.shields.io/badge/●_available-Tashkent,_UZ-3ECF8E?style=flat-square&labelColor=111&logoColor=white)
+<table width="100%">
+<tr>
+<td width="70%" valign="middle">
+<sub>OPEN TO WORK</sub>
 
 ### Munis
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=888780&width=320&height=24&lines=Full-Stack+Engineer;Mobile+Developer;Project+Manager)
 
-<table><tr>
-<td align="center"><sub>ROLE</sub><br/><b>Full-Stack Engineer</b></td>
-<td align="center"><sub>ALSO</sub><br/><b>Mobile Developer</b></td>
-<td align="center"><sub>AND</sub><br/><b>Project Manager</b></td>
-</tr></table>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2500&pause=1000&color=888780&width=320&height=24&lines=Full-Stack+Engineer;Mobile+Developer;Project+Manager)
+</td>
+<td width="30%" align="right" valign="middle">
+
+![Location](https://img.shields.io/badge/●_available-Tashkent%2C_UZ-3ECF8E?style=flat-square&labelColor=111)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%"><sub>ROLE</sub><br/><b>Full-Stack Engineer</b></td>
+<td align="center" width="33%"><sub>ALSO</sub><br/><b>Mobile Developer</b></td>
+<td align="center" width="33%"><sub>AND</sub><br/><b>Project Manager</b></td>
+</tr>
+</table>
 
 ---
 
 <sub>FRONTEND</sub>
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
 <sub>MOBILE</sub>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=000)
 
 <sub>BACKEND & DATA</sub>
@@ -43,5 +59,28 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<sub>CURRENTLY LEARNING</sub>
+
+`●` Backend architecture  
+`●` System design
+
+</td>
+<td width="50%" valign="top">
+
+<sub>OPEN TO</sub>
+
+Freelance projects  
+Full-time roles
+
+</td>
+</tr>
+</table>
 
 </div>
