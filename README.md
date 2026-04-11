@@ -4,8 +4,6 @@
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/munisdev)
 
-<br/>
-
 <sub>O P E N &nbsp; T O &nbsp; W O R K</sub>
 
 # Munis
