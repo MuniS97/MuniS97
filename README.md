@@ -4,8 +4,6 @@
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MuniS97)
 
-<sub>O P E N &nbsp; T O &nbsp; W O R K</sub>
-
 # Munis
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=1000&color=888780&center=true&width=380&height=28&lines=Full-Stack+Engineer;Mobile+Developer;Project+Manager)
